@@ -30,7 +30,7 @@
         "Checkbox.Background.Selected.Dark": "#080a0a",
         "Checkbox.Foreground.Selected.Dark": "#79c1f5",
         "Checkbox.Border.Selected.Dark": "#3e4d58",
-        
+
 
         "linkForeground": "#79c1f5"
     }
@@ -38,7 +38,7 @@
   "ui": {
     "*": {
         "windowBorder": "#3e4d58",
-        "borderColor": "#3e4d58",
+        "borderColor": "#213555",
         "background": "#080a0a",
         "foreground": "#c2c9cf",
         "inactiveBackground": "#080a0a",
@@ -52,13 +52,13 @@
         "focusedBorderColor": "#3d617b"
     },
 
+
     "ActionButton.hoverBackground": "#080a0a",
     "ActionButton.hoverBorderColor": "#080a0a",
     "ActionButton.pressedBackground": "#080a0a",
     "ActionButton.pressedBorderColor": "#080a0a",
 
-    "Borders.color": "#3e4d58",
-    "Borders.ContrastBorderColor": "#3e4d58",
+    "Borders.color": "#080a0a",
 
     "Button.arc": 8,
     "Button.background": "#080a0a",
@@ -136,7 +136,7 @@
     "EditorPane.caretForeground": "#79c1f5",
     "EditorPane.foreground": "#c2c9cf",
 
-    "EditorTabs.borderColor": "#3e4d58",
+    "EditorTabs.borderColor": "#080a0a",
     "EditorTabs.hoverBackground": "#080a0a",
     "EditorTabs.inactiveColoredFileBackground": "#080a0a",
     "EditorTabs.inactiveUnderlineColor": "#3d617b",
@@ -179,7 +179,7 @@
     "Menu.disabledForeground": "#5f707c",
     "Menu.foreground": "#c2c9cf",
 
-    "MenuBar.borderColor": "#3e4d58",
+    "MenuBar.borderColor": "#080a0a",
     "MenuBar.disabledBackground": "#080a0a",
     "MenuBar.disabledForeground": "#5f707c",
     "MenuBar.foreground": "#c2c9cf",
@@ -324,14 +324,14 @@
     "SearchField.errorBackground": "#3d100d",
     "SearchField.errorForeground": "#f44034",
 
-    
+
     "SearchMatch.endBackground": "#79c1f5",
     "SearchMatch.startBackground": "#79c1f5",
-    
+
 
     "SidePanel.background": "#080a0a",
 
-    "StatusBar.borderColor": "#3e4d58",
+    "StatusBar.borderColor": "#213555",
 
     "TabbedPane.background": "#080a0a",
     "TabbedPane.contentAreaColor": "#080a0a",
@@ -382,7 +382,7 @@
     "ToolWindow.Button.selectedBackground": "#080a0a",
 
     "ToolWindow.Header.background": "#080a0a",
-    "ToolWindow.Header.borderColor": "#3e4d58",
+    "ToolWindow.Header.borderColor": "#080a0a",
     "ToolWindow.HeaderTab.hoverBackground": "#080a0a",
     "ToolWindow.HeaderTab.hoverInactiveBackground": "#080a0a",
     "ToolWindow.HeaderTab.selectedInactiveBackground": "#080a0a",
